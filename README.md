@@ -1,5 +1,5 @@
 # data-analysis
-data-analysis
+data-adata-analysisnalysis
 <!DOCTYPE html>
 <html lang = "en">
 <head>
@@ -10,8 +10,8 @@ data-analysis
 <h1>Tools used</h1>
 <p title=Tools used>
 <ul>
-    <li></li>
-  <li></li>
+    <li>Jupyter notebook</li>
+  <li>IBM cloud storage</li>
   <li></li>
 </ul>
 </p>
@@ -19,11 +19,11 @@ data-analysis
 <h1>library used</h1>
 <p title=Library used->
 <ul>
-    <li></li>
-  <li></li>
-  <li></li>
-  <li> </li>
-    <li></li>
+    <li>numpy</li>
+  <li>pandas</li>
+  <li>matplotlib</li>
+  <li>scipy </li>
+    <li>seaborn</li>
 
 </ul>
 </p>
