@@ -10,20 +10,20 @@ data-analysis
 <h1>Tools used</h1>
 <p title=Tools used>
 <ul>
-    <li>Pycharm</li>
-  <li>Visual Studio(community version)</li>
-  <li>Histogram Of oriented Gradients method for package face-recognisation</li>
+    <li></li>
+  <li></li>
+  <li></li>
 </ul>
 </p>
 
 <h1>library used</h1>
 <p title=Library used->
 <ul>
-    <li>cmake</li>
-  <li>dil</li>
-  <li>face-recognisation</li>
-  <li>numpy </li>
-    <li>opencv</li>
+    <li></li>
+  <li></li>
+  <li></li>
+  <li> </li>
+    <li></li>
 
 </ul>
 </p>
@@ -33,21 +33,21 @@ data-analysis
 <p title=  Objective and Output>
 <ul>
 <li>Compares multiple images </li>
-<li>Checks how similar the images are</li>
+<li></li>
 </ul>
 </p>
 <h1>Application in real life</h1>
 <p title=Application in real life>
 <ul>
-    <li>Facebook uses this type of models to recognize friends in photos.</li>
-  <li>Its extended version is used to monitor attendence.</li>
+    <li></li>
+  <li></li>
 </ul>
 </p>
-  <h1>Articles for more details bout the backend.</h1>
-<p title=Articles for more details about the backend. >
+  <h1>Articles for more details</h1>
+<p title=Articles for more details  >
 <ul>
-<li>https://github.com/davisking/dlib>
-<li>https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78</li>
+<li></li>
+<li></li>
 </ul>
 </p>
 
