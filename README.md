@@ -32,7 +32,7 @@ data-analysis
   <h1> Objective and Output</h1>
 <p title=  Objective and Output>
 <ul>
-<li>Compares multiple images </li>
+<li></li>
 <li></li>
 </ul>
 </p>
